@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Equipo 1",
+    "info": "INTEL",
+    "price": 150,
+    "img": "https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "Equipo 2",
+    "info": "INTEL",
+    "price": 200,
+    "img": "https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 3,
+    "name": "Equipo 3",
+    "info": "INTEL",
+    "price": 270,
+    "img": "https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Equipo 4",
+    "info": "INTEL",
+    "price": 300,
+    "img":"https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  }
+  ,{
+    "id": 5,
+    "name": "Equipo 5",
+    "info": "AMD",
+    "price": 318,
+    "img":"https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  }
+  ,{
+    "id": 6,
+    "name": "Equipo 6",
+    "info": "AMD",
+    "price": 481,
+    "img":"https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+  }
+  ,{
+    "id": 7,
+    "name": "Equipo 7",
+    "info": "AMD",
+    "price": 648,
+    "img":"https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+    "quanty": 1
+}
+,
+{
+  "id": 8,
+  "name": "Equipo 8",
+  "info": "AMD",
+  "price": 820,
+  "img":"https://www.nnet.com.uy/productos/imgs/gabinete-gamer-gravity-gr82-nnet-132532-31.jpg",
+  "quanty": 1
+}
+]
